@@ -205,6 +205,8 @@ node_modules
 # bazel outputs
 **/bazel-*
 
+# virtual environment
+venv/*
 
 # The project used data related folder
 /data/*
